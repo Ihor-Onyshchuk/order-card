@@ -1,5 +1,5 @@
 {
-  "name": "daoua-front-end-developer-test-task",
+  "name": "order-card",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,16 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daoua/front-end-developer-test-task.git"
+    "url": "git+https://github.com/Ihor-Onyshchuk/order-card.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/daoua/front-end-developer-test-task/issues"
+    "url": "https://github.com/Ihor-Onyshchuk/order-card.git/issues"
   },
-  "homepage": "https://github.com/daoua/front-end-developer-test-task#readme",
+  "homepage": "https://github.com/Ihor-Onyshchuk/order-card.git",
   "dependencies": {
+    "node-sass": "^4.14.1",
     "styled-components": "^5.1.1"
   },
   "devDependencies": {
